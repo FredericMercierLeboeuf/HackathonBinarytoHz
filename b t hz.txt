@@ -1,5 +1,5 @@
 binary data, 
-stranfered by HZ 
+stranfered into HZ 
 Wave Frequency
 
 -*IBM Quantum Computer*(HEX VALUE extraction), 
@@ -121,6 +121,7 @@ par intervalles de 124 Hz à partir de 2 Hz
   </script>
 </body>
 </html>
+
 
 
 
